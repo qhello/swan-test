@@ -31,8 +31,10 @@
 		"@koa/router": "^9.3.1",
 		"csv-parser": "^2.3.3",
 		"dotenv": "^8.2.0",
+		"jest": "^26.2.2",
 		"koa": "^2.13.0",
-		"lodash": "^4.17.19"
+		"lodash": "^4.17.19",
+		"supertest": "^4.0.2"
 	},
 	"devDependencies": {
 		"@types/hapi__joi": "^17.1.4",
@@ -40,6 +42,7 @@
 		"@types/koa": "^2.11.3",
 		"@types/koa__router": "^8.0.2",
 		"@types/lodash": "^4.14.158",
+		"@types/supertest": "^2.0.10",
 		"@typescript-eslint/eslint-plugin": "^3.7.1",
 		"@typescript-eslint/parser": "^3.7.1",
 		"eslint": "^7.5.0",
